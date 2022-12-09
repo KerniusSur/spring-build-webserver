@@ -1,1 +1,2 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
+warsaw-hospital-backend-0.1.0-warsaw-hospital.jar filter=lfs diff=lfs merge=lfs -text
